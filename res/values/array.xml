@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loading_text">
+        <item>simulating quantum mechanics..</item>
+        <item>computing pi digits...</item>
+        <item>loading map...</item>
+        <item>handling npe...</item>
+        <item>sending personal data to fbi...</item>
+        <item>initializing brainfuck vm...</item>
+        <item>computing world\'s md5 sum...</item>
+        <item>booking plane tickets...</item>
+        <item>extracting mac os x source code...</item>
+        <item>looking for missing dot. .</item>
+        <item>upgrading kernel...</item>
+        <item>picking apples...</item>
+        <item>composing random music...</item>
+        <item>downloading databases...</item>
+        <item>executing : rm -rf /</item>
+        <item>chasing snake...</item>
+        <item>waiting for the mongoose to leave...</item>
+        <item>loading music...</item>
+        
+            
+            
+        <item>warming up...</item>
+        
+    </string-array>
+</resources>
